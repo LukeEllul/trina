@@ -1,0 +1,39 @@
+{
+  "name": "trina",
+  "version": "0.0.1",
+  "description": "Asynchronous logic programming with trina.",
+  "main": "trina.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeEllul/trina.git"
+  },
+  "keywords": [
+    "logic",
+    "programming",
+    "trina",
+    "asynchronous",
+    "functional",
+    "javascript",
+    "node.js",
+    "promise",
+    "handle",
+    "boss"
+  ],
+  "author": "Luke Ellul <ellul.luke@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LukeEllul/trina/issues"
+  },
+  "homepage": "https://github.com/LukeEllul/trina#readme",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "chai-as-promised": "^6.0.0",
+    "mocha": "^3.4.2"
+  }
+}
